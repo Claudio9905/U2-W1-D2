@@ -1,2 +1,2 @@
-# U2-W1-D2
+Esercizio sull'uso del CSS positioning tramite i valori "absolute", "relative", "fixed", "sticky". Uso anche della proprità float.
 
